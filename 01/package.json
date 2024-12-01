@@ -1,0 +1,13 @@
+{
+  "name": "advence-of-code-2024_01",
+  "version": "1.0.0",
+  "description": "Advence code 01",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
